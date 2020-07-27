@@ -1,0 +1,1 @@
+This folder contains one more folder and some .css and .js files required for this project!!
