@@ -3,7 +3,7 @@ The Portfolio project:
 Files = database.csv, requirements.txt, webPy.py
 Folders = static, templates
 
-The Car & Pedestrian tracking using Python-AI
+The Car & Pedestrian tracking using Python-AI: 
 we are using here HAAR Features & pre-trained XML files to detect a car and pedestrian.
 Algorithm:
 1. Get a video including cars and pedestrians in it.
