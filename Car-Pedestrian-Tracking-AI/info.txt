@@ -1,0 +1,1 @@
+This project will detect car & pedestrians using openCV. More information is on Readme.
