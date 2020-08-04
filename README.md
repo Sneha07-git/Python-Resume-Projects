@@ -6,7 +6,7 @@ Folders = static, templates
 The Car & Pedestrian tracking using Python-AI: 
 we are using here HAAR Features & pre-trained XML files to detect a car and pedestrian.
 Algorithm:
-1. Get a video including cars and pedestrians in it.
+1. Get a video including cars and pedestrians in it.(Ref_Video: https://www.youtube.com/watch?v=WriuvU1rXkc)
 2. convert the Video into grayscale for fast implementation (RGB has lots of data)
 3. How to train Computer?
   3.1 "Haar-Features" are used to recognize objects in Real-Time
