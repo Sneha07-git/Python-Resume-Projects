@@ -1,0 +1,3 @@
+This is Craigslist Clone. 
+I have created this in Python-Django using BeautifulSoup to scrape the data from original Craigslist.
+To design the website HTML, CSS (Materialized) have used.
